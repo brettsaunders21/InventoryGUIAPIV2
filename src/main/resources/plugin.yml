@@ -1,0 +1,4 @@
+name: InventoryGUIAPI
+author: 'Brett Saunders'
+main: com.brettsaunders.inventoryguiapi.plugin.InventoryGUIAPI
+version: 1.0
